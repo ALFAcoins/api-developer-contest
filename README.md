@@ -1,0 +1,61 @@
+# ALFAcoins API Developer Contest. With rewards and prizes!
+[ALFAcoins](https://www.alfacoins.com/) is launching a developer contest with some nice rewards and prizes!
+
+## What do I need to do?
+Create and develop an API library for our [API](https://www.alfacoins.com/developers "API Reference") in programming language you know!
+
+The reference ALFAcoins API Library implementation written in PHP (as an example) can be found here: https://github.com/ALFAcoins/alfacoins-api-php
+
+The following programming languages are accepted for the contest:
+* Python
+* Node.js
+* Ruby
+* Go
+* Java
+* JavaScript
+* C++
+* C#
+* Swift
+* Scala
+
+## What will I win?
+The winners will be determined by our development team based on these criterias.
+The prize for each winner will be: $500 in Bitcoin, Ethereum, Bitcoin Cash, Litecoin, XRP, or Dash.
+
+## How to submit my API library implementation?
+Publish your API library implementation on your Github and make a pull request with a file containing your nickname (e.g. **[participants/super_developer_example.md](participants/super_developer_example.md)**).
+File format is:
+```
+Your nickname: super_developer
+Your Bitcoin/Ethereum/Bitcoin Cash/Dash/XRP/Litecoin address: 3Qpibye27giMGJ3P89xtBPFJ3uTQPQsGMh
+Programming Language: node.js
+API library implementation: https://github.com/super_developer/api_library_implementation
+```
+If you do not use Github you can also e-mail us at:
+
+![contest at alfacoins dot com](https://i.imgur.com/2sYDTio.png "contest at alfacoins dot com")
+
+## How winners will be determined?
+* the winners will be determined by our developers team, for each programming language there will be a single winner
+* the main criteria - quality of the code
+* compliance with certain language coding standards
+* complexity of the code - code should be easy to understand and read
+* properly annotated code with comments
+* there is only one winner for each accepted programming language
+* you can possibly win multiple times if you submit API library implementation in different programming languages (e.g. in Python, Ruby, Go, etc)
+
+## When the contest starts?
+The API Developer Contest starts at: October 22, 2018.
+
+## When's the contest deadline?
+The API Developer Contest will end at: December 31, 2018. 
+Make sure to publish your API implementation library on your GitHub before that date and send a link to us!
+
+## When the winners will be announced?
+The winners will be announced around: January 15, 2019.
+
+## Where can I find updates and information about the contest?
+Follow us on [Github](https://github.com/alfacoins "ALFAcoins Github"), [Twitter](https://twitter.com/alfacoins "ALFAcoins Twitter") and [Facebook](https://www.facebook.com/alfacoinscom "ALFAcoins Facebook").
+
+*Good luck and Best regards,
+ALFAcoins team.*
