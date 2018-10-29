@@ -22,6 +22,19 @@ The following programming languages are accepted for the contest:
 The winners will be determined by our development team based on these criterias.
 The prize for each winner will be: $500 in Bitcoin, Ethereum, Bitcoin Cash, Litecoin, XRP, or Dash.
 
+## Test account data
+Please use this test account data in order to test your API implementation:
+```php
+// shop_name is the API name, replace 'ShopName 123' with your API name. Create API entry at https://www.alfacoins.com/user
+$shop_name = 'apicontest';
+
+// your actual API password
+$shop_password = 'aIXncDlApUS4nexB';
+
+// shop_secret_key is your API secret_key, it's shown one time after you created the new API entry, if you didn't write it down you can reset it in your API settings
+$shop_secret_key = '07fc884cf02af307400a9df4f2d15490';
+```
+
 ## How to submit my API library implementation?
 Publish your API library implementation on your Github and make a pull request with a file containing your nickname (e.g. **[participants/super_developer_example.md](participants/super_developer_example.md)**).
 File format is:
