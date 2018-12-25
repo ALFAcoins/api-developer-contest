@@ -33,7 +33,21 @@ $shop_password = 'aIXncDlApUS4nexB';
 
 // shop_secret_key is your API secret_key, it's shown one time after you created the new API entry, if you didn't write it down you can reset it in your API settings
 $shop_secret_key = '07fc884cf02af307400a9df4f2d15490';
+
+// prepare options to create a new order, more about it here: https://www.alfacoins.com/developers#post_requests-create
+$options = [
+  // notificationURL is used for notification about order's status change
+  // PLEASE NOTE: you can only use verified websites in the websites integration area
+  'notificationURL' => 'https://apicontest.alfacoins.com/notify.php',
+  // redirectURL is used to redirect your customer from the payment page
+  'redirectURL' => 'https://apicontest.alfacoins.com/redirect.php',
+  // payerName is your customer's name used to notify your customer about order
+  'payerName' => 'John Smith',
+  // payerEmail is your customer's e-mail address used to notify your customer about order
+  'payerEmail' => 'john.smith@test.com',
+];
 ```
+You can see payment notification log [here](https://apicontest.alfacoins.com/api_notification_debug.txt).
 
 ## How to submit my API library implementation?
 Publish your API library implementation on your Github and make a pull request with a file containing your nickname (e.g. **[participants/super_developer_example.md](participants/super_developer_example.md)**).
