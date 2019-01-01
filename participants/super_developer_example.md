@@ -1,7 +1,7 @@
-Your nickname: super_developer
+Your nickname: scunliffe
 
-Your Bitcoin/Ethereum/Bitcoin Cash/Dash/XRP/Litecoin address: 3Qpibye27giMGJ3P89xtBPFJ3uTQPQsGMh
+Your **Bitcoin**/Ethereum/Bitcoin Cash/Dash/XRP/Litecoin address: 345DpGr5MYqRdEZhEtUwpWd7dGAzT6C7CK
 
-Programming Language: node.js
+Programming Language: JavaScript
 
-API library implementation: https://github.com/super_developer/api_library_implementation
+API library implementation: https://github.com/scunliffe/ALFAcoins-js-api
