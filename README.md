@@ -69,17 +69,18 @@ If you do not use Github you can also e-mail us at:
 * complexity of the code - code should be easy to understand and read
 * properly annotated code with comments
 * there is only one winner for each accepted programming language
+* there should be at least two or more participants for each accepted programming language
 * you can possibly win multiple times if you submit API library implementation in different programming languages (e.g. in Python, Ruby, Go, etc)
 
 ## When the contest starts?
 The API Developer Contest starts at: October 22, 2018.
 
 ## When's the contest deadline?
-The API Developer Contest will end at: December 31, 2018. 
+The API Developer Contest will end at: September 01, 2019. 
 Make sure to publish your API implementation library on your GitHub before that date and send a link to us!
 
 ## When the winners will be announced?
-The winners will be announced around: January 15, 2019.
+The winners will be announced around: October, 2019.
 
 ## Where can I find updates and information about the contest?
 Follow us on [Github](https://github.com/alfacoins "ALFAcoins Github"), [Twitter](https://twitter.com/alfacoins "ALFAcoins Twitter") and [Facebook](https://www.facebook.com/alfacoinscom "ALFAcoins Facebook").
