@@ -1,3 +1,9 @@
+** **ALFAcoins API Developer Contest has been finished!** **
+
+## Winners
+* Python - [ArashFatahzade](https://github.com/ALFAcoins/api-developer-contest/blob/master/participants/ArashFatahzade.md) ([500$](https://www.blockchain.com/btc/tx/2b460bf43c8012c5b7f22e8d097e58455ab537bd6208cbe38e4a4075d9b59db7))
+-----------------------------
+
 # ALFAcoins API Developer Contest. With rewards and prizes!
 [ALFAcoins](https://www.alfacoins.com/) is launching a developer contest with some nice rewards and prizes!
 
